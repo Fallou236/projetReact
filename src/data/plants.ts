@@ -11,34 +11,34 @@ export const plants = [
     name: 'Snake Plant',
     price: 29.99,
     category: 'Air Purifying',
-    image: 'https://images.unsplash.com/photo-1524234960831-9f17de3eb090?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'
+    image: '/snake.jpeg'
   },
   {
     id: '3',
     name: 'Peace Lily',
     price: 24.99,
     category: 'Air Purifying',
-    image: 'https://images.unsplash.com/photo-1593691509544-d6c14a0cd1f7?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'
+    image: '/peace.jpeg'
   },
   {
     id: '4',
     name: 'Fiddle Leaf Fig',
     price: 59.99,
     category: 'Large Plants',
-    image: 'https://images.unsplash.com/photo-1593691509544-d6c14a0cd1f7?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'
+    image: '/fiddle.webp'
   },
   {
     id: '5',
     name: 'String of Pearls',
     price: 19.99,
     category: 'Hanging Plants',
-    image: 'https://images.unsplash.com/photo-1593691509544-d6c14a0cd1f7?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'
+    image: '/string.jpeg'
   },
   {
     id: '6',
     name: 'Pothos',
     price: 22.99,
     category: 'Hanging Plants',
-    image: 'https://images.unsplash.com/photo-1593691509544-d6c14a0cd1f7?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'
+    image: '/pothos.webp'
   }
 ];
