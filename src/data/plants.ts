@@ -11,7 +11,7 @@ export const plants = [
     name: 'Snake Plant',
     price: 29.99,
     category: 'Air Purifying',
-    image: 'https://images.unsplash.com/photo-1593691509544-d6c14a0cd1f7?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'
+    image: 'https://images.unsplash.com/photo-1524234960831-9f17de3eb090?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'
   },
   {
     id: '3',
